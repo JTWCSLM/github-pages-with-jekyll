@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Welcome to JTWCSLM's blog
 
-I'm glad you are here. I plan to talk about ...
+glad to see you, it's my homepage.
